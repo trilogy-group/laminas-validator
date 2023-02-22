@@ -23,8 +23,8 @@ use function is_array;
 use function is_string;
 use function preg_match;
 use function strlen;
-use function trim;
 use function strpos;
+use function trim;
 
 use const INTL_IDNA_VARIANT_UTS46;
 
