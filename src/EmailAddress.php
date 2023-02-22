@@ -22,9 +22,9 @@ use function idn_to_utf8;
 use function is_array;
 use function is_string;
 use function preg_match;
-use function str_contains;
 use function strlen;
 use function trim;
+use function strpos;
 
 use const INTL_IDNA_VARIANT_UTS46;
 
